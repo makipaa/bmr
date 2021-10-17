@@ -1,0 +1,12 @@
+[package]
+name = "timer_interrupt"
+version = "0.1.0"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+longan-nano = "0.3.0"
+panic-halt = "0.2.0"
+riscv = "0.7.0"
+riscv-rt = "0.8.0"
